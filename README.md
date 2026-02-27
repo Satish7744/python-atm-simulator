@@ -66,7 +66,7 @@ This project demonstrates basic programming concepts like:
 ## 👨‍💻 Author
 
 Satish  
-Python Beginner Project – Level 1 Completion
+Built after completing Python Fundamentals (Level 1)
 
 
 
