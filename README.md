@@ -1,4 +1,4 @@
-# 🏧 Python ATM Simulator (Version 1)
+# 🏧 Python ATM Simulator (Version 2)
 
 ## 📌 Description
 A simple console-based ATM simulator built using Python.
@@ -56,7 +56,7 @@ This project demonstrates basic programming concepts like:
 
 ## 🔜 Future Improvements (Version 2)
 
-- Add loop to allow multiple transactions
+- Add loop to allow multiple transactions (ADDED)
 - Add PIN authentication
 - Add transaction history
 - Improve UI formatting
